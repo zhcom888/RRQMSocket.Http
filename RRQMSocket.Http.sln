@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RRQMSocket.Http", "RRQMSocket.Http\RRQMSocket.Http.csproj", "{6413576B-2AD8-4B32-A08C-DD90F4F3B9F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RRQMSocket.WebSocket", "RRQMSocket.WebSocket\RRQMSocket.WebSocket.csproj", "{A416BF7B-D9A8-4A72-A16B-5F8BBE86B4F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6413576B-2AD8-4B32-A08C-DD90F4F3B9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6413576B-2AD8-4B32-A08C-DD90F4F3B9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6413576B-2AD8-4B32-A08C-DD90F4F3B9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6413576B-2AD8-4B32-A08C-DD90F4F3B9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A416BF7B-D9A8-4A72-A16B-5F8BBE86B4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A416BF7B-D9A8-4A72-A16B-5F8BBE86B4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A416BF7B-D9A8-4A72-A16B-5F8BBE86B4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A416BF7B-D9A8-4A72-A16B-5F8BBE86B4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB787235-A13A-4A3D-B5A8-5DFEB6511EEE}
+	EndGlobalSection
+EndGlobal
