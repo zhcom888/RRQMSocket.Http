@@ -44,6 +44,16 @@
 - .NET Core3.1及以上。
 - .NET Standard2.0及以上。
 
+## 🔗联系作者
+
+- [CSDN博客主页](https://blog.csdn.net/qq_40374647)
+- [哔哩哔哩视频](https://space.bilibili.com/94253567)
+- [源代码仓库主页](https://gitee.com/RRQM_Home) 
+- 交流QQ群：234762506
+
+## 🌟说明文档
+- [ 文档首页 ](https://www.yuque.com/eo2w71/rrqm/2c5dab34026d2b45ada6e51ae9e51a5a)
+
  **【Http服务器】** 
 
 HttpService支持**Https协议**、**静态页面**、**WebSocket**、**JsonRpc**、**XmlRpc**、**WebApi**插件的挂载。
